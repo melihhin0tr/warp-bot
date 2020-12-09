@@ -14,7 +14,7 @@ on:
   watch:
     types: [started]
 env:
-  USERNAME:melihhin0tr
+  USERNAME: melihhin0tr
    
 jobs:
   build:
